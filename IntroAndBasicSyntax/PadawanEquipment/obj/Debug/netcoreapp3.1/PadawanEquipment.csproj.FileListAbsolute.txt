@@ -1,0 +1,12 @@
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.exe
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.deps.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfo.cs
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.genruntimeconfig.cache

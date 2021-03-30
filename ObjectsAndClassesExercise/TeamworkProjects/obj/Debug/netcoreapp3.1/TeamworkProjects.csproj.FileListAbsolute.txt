@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.exe
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.deps.json
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.runtimeconfig.json
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.dll
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.pdb
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.AssemblyInfo.cs
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.dll
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.pdb
+C:\Users\rosen\source\repos\ObjectsAndClassesExercise\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.genruntimeconfig.cache

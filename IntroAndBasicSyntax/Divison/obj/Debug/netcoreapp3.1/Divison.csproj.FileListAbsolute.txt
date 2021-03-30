@@ -1,0 +1,12 @@
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\bin\Debug\netcoreapp3.1\Divison.exe
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\bin\Debug\netcoreapp3.1\Divison.deps.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\bin\Debug\netcoreapp3.1\Divison.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\bin\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfo.cs
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\obj\Debug\netcoreapp3.1\Divison.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\obj\Debug\netcoreapp3.1\Divison.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\obj\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\Divison\obj\Debug\netcoreapp3.1\Divison.genruntimeconfig.cache

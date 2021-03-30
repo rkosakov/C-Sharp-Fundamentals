@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.exe
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.deps.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.dll
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfo.cs
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.dll
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.genruntimeconfig.cache

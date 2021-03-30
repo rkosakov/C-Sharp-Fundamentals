@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.exe
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.deps.json
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.dll
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.dll
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.genruntimeconfig.cache

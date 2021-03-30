@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\bin\Debug\netcoreapp3.1\PokemonDoNotGo.exe
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\bin\Debug\netcoreapp3.1\PokemonDoNotGo.deps.json
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\bin\Debug\netcoreapp3.1\PokemonDoNotGo.runtimeconfig.json
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\bin\Debug\netcoreapp3.1\PokemonDoNotGo.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\bin\Debug\netcoreapp3.1\PokemonDoNotGo.dll
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\bin\Debug\netcoreapp3.1\PokemonDoNotGo.pdb
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\obj\Debug\netcoreapp3.1\PokemonDoNotGo.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\obj\Debug\netcoreapp3.1\PokemonDoNotGo.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\obj\Debug\netcoreapp3.1\PokemonDoNotGo.AssemblyInfo.cs
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\obj\Debug\netcoreapp3.1\PokemonDoNotGo.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\obj\Debug\netcoreapp3.1\PokemonDoNotGo.dll
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\obj\Debug\netcoreapp3.1\PokemonDoNotGo.pdb
+C:\Users\rosen\source\repos\ListsExercise\PokemonDoNotGo\obj\Debug\netcoreapp3.1\PokemonDoNotGo.genruntimeconfig.cache

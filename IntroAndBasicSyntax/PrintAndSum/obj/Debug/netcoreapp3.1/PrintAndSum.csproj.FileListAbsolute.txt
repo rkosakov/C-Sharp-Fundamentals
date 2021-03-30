@@ -1,0 +1,12 @@
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.exe
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.deps.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfo.cs
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.genruntimeconfig.cache

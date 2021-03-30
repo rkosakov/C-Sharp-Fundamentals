@@ -1,0 +1,12 @@
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.exe
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.deps.json
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.runtimeconfig.json
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.dll
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.pdb
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.AssemblyInfo.cs
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.dll
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.pdb
+C:\Users\rosen\source\repos\ListsExercise\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.genruntimeconfig.cache

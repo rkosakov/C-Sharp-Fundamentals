@@ -1,0 +1,12 @@
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.exe
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.deps.json
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.dll
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.pdb
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.dll
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.pdb
+C:\Users\rosen\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\MaxSequenceOfEqualElements.genruntimeconfig.cache

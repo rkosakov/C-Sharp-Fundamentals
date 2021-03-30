@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.exe
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.deps.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfo.cs
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.genruntimeconfig.cache

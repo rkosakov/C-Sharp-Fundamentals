@@ -1,0 +1,12 @@
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.exe
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.deps.json
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.genruntimeconfig.cache

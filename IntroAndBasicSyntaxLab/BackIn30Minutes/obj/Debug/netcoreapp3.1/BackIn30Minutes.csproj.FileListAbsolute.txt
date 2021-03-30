@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.exe
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.deps.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfo.cs
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.genruntimeconfig.cache

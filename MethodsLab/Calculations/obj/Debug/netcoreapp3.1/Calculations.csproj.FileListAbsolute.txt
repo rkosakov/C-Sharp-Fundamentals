@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\rosen\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\rosen\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\rosen\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\rosen\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\rosen\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp3.1\Calculations.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\rosen\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\rosen\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\rosen\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache

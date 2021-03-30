@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\rosen\source\repos\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.genruntimeconfig.cache

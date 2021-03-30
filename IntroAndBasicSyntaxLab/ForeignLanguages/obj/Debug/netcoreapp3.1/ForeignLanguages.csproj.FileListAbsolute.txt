@@ -1,0 +1,12 @@
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.exe
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.deps.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfo.cs
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntaxLab\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.exe
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.deps.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfo.cs
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\rosen\source\repos\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.genruntimeconfig.cache

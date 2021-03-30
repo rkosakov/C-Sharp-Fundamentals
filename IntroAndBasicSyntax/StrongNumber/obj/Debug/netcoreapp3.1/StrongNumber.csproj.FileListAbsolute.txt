@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\rosen\source\repos\IntroAndBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache

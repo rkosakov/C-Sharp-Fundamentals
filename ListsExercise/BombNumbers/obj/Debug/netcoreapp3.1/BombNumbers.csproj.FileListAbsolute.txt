@@ -1,0 +1,13 @@
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.exe
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.deps.json
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.runtimeconfig.json
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.runtimeconfig.dev.json
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.dll
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\bin\Debug\netcoreapp3.1\BombNumbers.pdb
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.AssemblyInfo.cs
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.dll
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.pdb
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.genruntimeconfig.cache
+C:\Users\rosen\source\repos\ListsExercise\BombNumbers\obj\Debug\netcoreapp3.1\BombNumbers.csprojAssemblyReference.cache
